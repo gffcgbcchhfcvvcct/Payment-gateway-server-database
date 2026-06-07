@@ -20,8 +20,8 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 /* ── Hardcoded config — edit before making repo public ── */
-const SUPABASE_URL = 'https://yfmflzasmxpjtrmolgwc.supabase.co';
-const SUPABASE_SERVICE_KEY = 'sb_secret_NRfxt7OOdnY74T0yUkcWJA_EhNqQZj8';
+const SUPABASE_URL = 'https://rjhminupicwajojbiqif.supabase.co';
+const SUPABASE_SERVICE_KEY = 'sb_secret_CmFiVTzsWICyhhwsUXjdRw_nXH-9dkZ';
 const ADMIN_SECRET_KEY = '3462Abel';
 const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY);
 
