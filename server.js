@@ -1,4 +1,4 @@
-/**
+/***
  * NexaPay Backend Server
  * ─────────────────────
  * Serves the frontend static files and all API routes.
